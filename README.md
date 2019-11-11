@@ -1,3 +1,3 @@
 # training_test
 
-Solution on Python
+Q&A to 1st module.
