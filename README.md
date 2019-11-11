@@ -1,3 +1,3 @@
 # training_test
 
-Q&A to 1st module.
+Q&A to 1st module tests.
